@@ -16,8 +16,6 @@ Below is a list of tasks and challenges included in this virtual experience prog
 
 3. Task 3: Relational Database Design
 
-4. Task 4: Data Munging
-
 ## Usage
 
 To access the solutions, simply click on the links provided above for each task. Each task will have its own folder or file containing the solution code, documentation, or any other relevant files.
